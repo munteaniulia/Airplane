@@ -22,7 +22,7 @@ GLfloat punctePlanIarba[][3] = {
 	{ 150.0f, -60.0f, -150.0f }
 };
 
-float coeficientiPlanIarba[4];
+float coeficientiPlanIarba[4]; 
 float matriceUmbrire[4][4];
 
 
